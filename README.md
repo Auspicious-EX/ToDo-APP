@@ -120,6 +120,14 @@ todo-app/
 └── package.json
 ```
 
+## Screenshots
+
+Here are a few screenshots of the Todo app:
+
+![Todo App Screenshot 1](https://github.com/Auspicious-EX/ToDo-APP/blob/main/IMG/1.png?raw=true)
+![Todo App Screenshot 2](https://github.com/Auspicious-EX/ToDo-APP/blob/main/IMG/2.png?raw=true)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
